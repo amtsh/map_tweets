@@ -1,4 +1,4 @@
-twitter_search
+twitter_seh
 ==============
 
-Twitter provides access to the tweets by its API. This tool searches for particular tweets and maps the tweets on a map based on its geolocation. Demo of the tool at http://bit.ly/12mY46s
+This tool fetches recent tweets on a given topic using Twitter API and maps them on Google Maps based on its geolocation.
